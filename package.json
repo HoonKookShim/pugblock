@@ -1,0 +1,19 @@
+{
+  "name": "pugblock",
+  "version": "1.0.0",
+  "description": "Can divide long Pug code into blocks, and blocks can be inserted into another block.",
+  "main": "lib/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "HoonKook Shim",
+    "email": "loveseeker@empas.com"
+  },
+  "type": "module",
+  "module": "lib/index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^3.0.3"
+  }
+}
